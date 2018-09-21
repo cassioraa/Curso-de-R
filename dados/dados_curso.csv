@@ -1,0 +1,75 @@
+modelo,preço,mpg,peso,comprimento,origem,km por litro
+AMC Concord,4099,22,2930,186,Domestic,9.46
+AMC Pacer,4749,17,3350,173,Domestic,7.31
+AMC Spirit,3799,22,2640,168,Domestic,9.46
+Buick Century,4816,20,3250,196,Domestic,8.6
+Buick Electra,7827,15,4080,222,Domestic,6.45
+Buick LeSabre,5788,18,3670,218,Domestic,7.74
+Buick Opel,4453,26,2230,170,Domestic,11.18
+Buick Regal,5189,20,3280,200,Domestic,8.6
+Buick Riviera,10372,16,3880,207,Domestic,6.88
+Buick Skylark,4082,19,3400,200,Domestic,8.17
+Cad. Deville,11385,14,4330,221,Domestic,6.02
+Cad. Eldorado,14500,14,3900,204,Domestic,6.02
+Cad. Seville,15906,21,4290,204,Domestic,9.03
+Chev. Chevette,3299,29,2110,163,Domestic,12.47
+Chev. Impala,5705,16,3690,212,Domestic,6.88
+Chev. Malibu,4504,22,3180,193,Domestic,9.46
+Chev. Monte Carlo,5104,22,3220,200,Domestic,9.46
+Chev. Monza,3667,24,2750,179,Domestic,10.32
+Chev. Nova,3955,19,3430,197,Domestic,8.17
+Dodge Colt,3984,30,2120,163,Domestic,12.9
+Dodge Diplomat,4010,18,3600,206,Domestic,7.74
+Dodge Magnum,5886,16,3600,206,Domestic,6.88
+Dodge St. Regis,6342,17,3740,220,Domestic,7.31
+Ford Fiesta,4389,28,1800,147,Domestic,12.04
+Ford Mustang,4187,21,2650,179,Domestic,9.03
+Linc. Continental,11497,12,4840,233,Domestic,5.16
+Linc. Mark V,13594,12,4720,230,Domestic,5.16
+Linc. Versailles,13466,14,3830,201,Domestic,6.02
+Merc. Bobcat,3829,22,2580,169,Domestic,9.46
+Merc. Cougar,5379,14,4060,221,Domestic,6.02
+Merc. Marquis,6165,15,3720,212,Domestic,6.45
+Merc. Monarch,4516,18,3370,198,Domestic,7.74
+Merc. XR-7,6303,14,4130,217,Domestic,6.02
+Merc. Zephyr,3291,20,2830,195,Domestic,8.6
+Olds 98,8814,21,4060,220,Domestic,9.03
+Olds Cutl Supr,5172,19,3310,198,Domestic,8.17
+Olds Cutlass,4733,19,3300,198,Domestic,8.17
+Olds Delta 88,4890,18,3690,218,Domestic,7.74
+Olds Omega,4181,19,3370,200,Domestic,8.17
+Olds Starfire,4195,24,2730,180,Domestic,10.32
+Olds Toronado,10371,16,4030,206,Domestic,6.88
+Plym. Arrow,4647,28,3260,170,Domestic,12.04
+Plym. Champ,4425,34,1800,157,Domestic,14.62
+Plym. Horizon,4482,25,2200,165,Domestic,10.75
+Plym. Sapporo,6486,26,2520,182,Domestic,11.18
+Plym. Volare,4060,18,3330,201,Domestic,7.74
+Pont. Catalina,5798,18,3700,214,Domestic,7.74
+Pont. Firebird,4934,18,3470,198,Domestic,7.74
+Pont. Grand Prix,5222,19,3210,201,Domestic,8.17
+Pont. Le Mans,4723,19,3200,199,Domestic,8.17
+Pont. Phoenix,4424,19,3420,203,Domestic,8.17
+Pont. Sunbird,4172,24,2690,179,Domestic,10.32
+Audi 5000,9690,17,2830,189,Foreign,7.31
+Audi Fox,6295,23,2070,174,Foreign,9.89
+BMW 320i,9735,25,2650,177,Foreign,10.75
+Datsun 200,6229,23,2370,170,Foreign,9.89
+Datsun 210,4589,35,2020,165,Foreign,15.05
+Datsun 510,5079,24,2280,170,Foreign,10.32
+Datsun 810,8129,21,2750,184,Foreign,9.03
+Fiat Strada,4296,21,2130,161,Foreign,9.03
+Honda Accord,5799,25,2240,172,Foreign,10.75
+Honda Civic,4499,28,1760,149,Foreign,12.04
+Mazda GLC,3995,30,1980,154,Foreign,12.9
+Peugeot 604,12990,14,3420,192,Foreign,6.02
+Renault Le Car,3895,26,1830,142,Foreign,11.18
+Subaru,3798,35,2050,164,Foreign,15.05
+Toyota Celica,5899,18,2410,174,Foreign,7.74
+Toyota Corolla,3748,31,2200,165,Foreign,13.33
+Toyota Corona,5719,18,2670,175,Foreign,7.74
+VW Dasher,7140,23,2160,172,Foreign,9.89
+VW Diesel,5397,41,2040,155,Foreign,17.63
+VW Rabbit,4697,25,1930,155,Foreign,10.75
+VW Scirocco,6850,25,1990,156,Foreign,10.75
+Volvo 260,11995,17,3170,193,Foreign,7.31
