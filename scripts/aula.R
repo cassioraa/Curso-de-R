@@ -21,6 +21,7 @@ comp   <- dados[,5]
 origem <- dados[,6]
 kmPorL <- dados[,7]
 
+
 # -- Medidas de posição -- #
 
 # Média
@@ -59,12 +60,19 @@ library(dplyr) #pacote pra manipulação e exploração de dados
 
 filter(dados, origem == "Domestic" &  preço <= 4000)
 
+# Abordagem do R
+#dados[origem=="Domestic" & preço <=4000,]
+
 cor(peso, comp)
 plot(peso, comp)
 
 # Seleciona apenas os dados numéricos
 
 numerico <- select_if(dados, is.numeric)
+
+# Abordagem do R
+#nums <- unlist(lapply(dados, is.numeric))  
+#dados[,nums]==numerico
 
 # Matriz de correlação 
 
