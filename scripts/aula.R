@@ -63,6 +63,24 @@ filter(dados, origem == "Domestic" &  preço <= 4000)
 # Abordagem do R
 #dados[origem=="Domestic" & preço <=4000,]
 
+# == Exercícios dos slides == #
+
+# 1.
+
+domesticos <- dados[origem=="Domestic",]
+importado<- dados[origem=="Foreign", ]
+
+mean(domesticos[,2]) > mean(importado[,2])
+
+
+# 2. 
+
+dados[kmPorL>=10 & preco<5000,]
+
+#=============
+# Correlação
+#=============
+
 cor(peso, comp)
 plot(peso, comp)
 
